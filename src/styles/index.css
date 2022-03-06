@@ -1,0 +1,22 @@
+html {
+  background-color: #3c4340;
+  color: #d8a477;
+  font-family: "Source Code Pro", monospace;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  /* background-image: url("");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; */
+}
+
+/* @media (max-width: 960px) {
+  body {
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: 500% 100%;
+  }
+} */
