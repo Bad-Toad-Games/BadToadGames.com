@@ -50,4 +50,5 @@
 .ExtraLink:hover {
   color: #d8a477;
   font-weight: bold;
+  cursor: pointer;
 }

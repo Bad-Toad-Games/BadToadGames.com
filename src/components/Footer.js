@@ -1,10 +1,8 @@
 import React from "react"
-
 import Footer_Style from "../styles/Footer.module.css"
 
 import { FaYoutube, FaTwitter } from "react-icons/fa"
 import { SiDiscord } from "react-icons/si"
-import { NavLink } from "react-router-dom";
 
 function Header() {
     return (
@@ -21,13 +19,13 @@ function Header() {
                 </a>
             </div>
             <div className={Footer_Style.ExtraLinks}>
-                <NavLink to="/join" className={Footer_Style.ExtraLink}>Join the team</NavLink>
+                <span onClick={() => { window.location.href = "/join" }} className={Footer_Style.ExtraLink}>Join the team</span>
                 •
-                <NavLink to="/support" className={Footer_Style.ExtraLink}>Support the Dream</NavLink>
+                <span onClick={() => { window.location.href = "/support" }} className={Footer_Style.ExtraLink}>Support the Dream</span>
                 •
-                <NavLink to="/contact" className={Footer_Style.ExtraLink}>Contact us</NavLink>
+                <span onClick={() => { window.location.href = "/contact" }} className={Footer_Style.ExtraLink}>Contact us</span>
                 <br />
-                <NavLink to="/newsletter" className={Footer_Style.ExtraLink}>Newsletter</NavLink>
+                <span onClick={() => { window.location.href = "/newsletter" }} className={Footer_Style.ExtraLink} >Newsletter</span>
             </div>
         </div >
     );
