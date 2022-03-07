@@ -21,7 +21,7 @@ function Join() {
                 </div>
                 <div className={Join_Style.Content_Paragraph_Parent}>
                     <p className={Join_Style.Content_Paragraph}>
-                        If you’re an artist, model designer, or just looking for commissioned based work and think we’d be a good fit please email <a href="mailto:Commissions@BadToadGames.com">Commissions@BadToadGames.com</a>, include a samples of your work and if the Toads like what they see, we’ll contact you.
+                        If you’re an artist, model designer, or just looking for commissioned based work and think we’d be a good fit please email <a href="mailto:Commissions@BadToadGames.com">Commissions@BadToadGames.com</a>, include a sample of your work and if the Toads like what they see, we’ll contact you.
                     </p>
                 </div>
                 <br />
