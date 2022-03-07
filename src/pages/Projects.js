@@ -10,7 +10,7 @@ function Projects() {
             <div className={Projects_Style.Projects}>
                 <div className={Projects_Style.Projects_Details}>
                     <p>
-                        WORKING TITLE
+                        Mercs- Mages & Monsters
                     </p>
                 </div>
                 <div className={Projects_Style.Projects_Details}>
@@ -22,7 +22,7 @@ function Projects() {
             </div>
             <div className={Projects_Style.Projects_Description}>
                 <p>
-                    PROJECT DESCRIPTION
+                    The core of the game is to acquire gold/ loot for completing Tasks from those  with the means to pay.  This could be a prince, local lord , shady merchant, the oddly well-to-do peasant farmer. No matter the source, yours is a question of do they have the means to pay and is the task worth risking your life. Doing so allows you to upgrade your Character and  increase the Prestige of your guild/group and so on. Which means you’ll be able to get better opportunities. Maybe even a map to raid a tomb or two… for the Museums obviously. <br />( subject to change)
                 </p>
             </div>
             <div className={Projects_Style.Warning}>

@@ -6,7 +6,7 @@
 }
 
 .Warning {
-  padding: 10px;
+  padding: 10px 30px;
   background-color: #1c9597;
   color: #d2e9e3;
   border-radius: 20px;
@@ -61,13 +61,14 @@
 .Projects_Description {
   display: flex;
   align-items: center;
-  height: 50px;
   width: 40%;
   margin: 0 0 30px 0;
   padding: 20px;
   border-radius: 20px;
   background-color: #106466;
   color: #d2e9e3;
+  line-height: 25px;
+  text-align: center;
 }
 
 /* If device width is smaller than 700px change css */
