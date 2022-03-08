@@ -19,13 +19,13 @@ function Header() {
                 </a>
             </div>
             <div className={Footer_Style.ExtraLinks}>
-                <span onClick={() => { window.location.href = "/join" }} className={Footer_Style.ExtraLink}>Join the team</span>
+                <span onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }) }} className={Footer_Style.ExtraLink}>Join the team</span>
                 •
-                <span onClick={() => { window.location.href = "/support" }} className={Footer_Style.ExtraLink}>Support the Dream</span>
+                <span onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }) }} className={Footer_Style.ExtraLink}>Support the Dream</span>
                 •
-                <span onClick={() => { window.location.href = "/contact" }} className={Footer_Style.ExtraLink}>Contact us</span>
+                <span onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }) }} className={Footer_Style.ExtraLink}>Contact us</span>
                 <br />
-                <span onClick={() => { window.location.href = "/newsletter" }} className={Footer_Style.ExtraLink} >Newsletter</span>
+                <span onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }) }} className={Footer_Style.ExtraLink} >Newsletter</span>
             </div>
         </div >
     );
