@@ -4,6 +4,8 @@ import Footer_Style from "../styles/Footer.module.css"
 import { FaYoutube, FaTwitter } from "react-icons/fa"
 import { SiDiscord } from "react-icons/si"
 
+import { NavLink } from "react-router-dom";
+
 function Header() {
     return (
         <div className={Footer_Style.Main}>
@@ -19,13 +21,13 @@ function Header() {
                 </a>
             </div>
             <div className={Footer_Style.ExtraLinks}>
-                <span onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }) }} className={Footer_Style.ExtraLink}>Join the team</span>
+                <NavLink onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }) }} to="/join" className={Footer_Style.ExtraLink}>Join the team</NavLink>
                 •
-                <span onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }) }} className={Footer_Style.ExtraLink}>Support the Dream</span>
+                <NavLink onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }) }} to="/support" className={Footer_Style.ExtraLink}>Support the Dream</NavLink>
                 •
-                <span onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }) }} className={Footer_Style.ExtraLink}>Contact us</span>
+                <NavLink onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }) }} to="/contact" className={Footer_Style.ExtraLink}>Contact us</NavLink>
                 <br />
-                <span onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }) }} className={Footer_Style.ExtraLink} >Newsletter</span>
+                <NavLink onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }) }} to="/newsletter" className={Footer_Style.ExtraLink} >Newsletter</NavLink>
             </div>
         </div >
     );
