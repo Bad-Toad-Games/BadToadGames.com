@@ -24,8 +24,8 @@ const submit = () => {
     if (sessionStorage.getItem("email") !== null && sessionStorage.getItem("Email") !== "" && sessionStorage.getItem("box1") === "true" && sessionStorage.getItem("box2") === "true") {
         axios({
             method: 'post',
-            url: 'http://localhost:3001/api/newsletter/register',
-            // url: 'https://badtoadgames.com/api/newsletter/register',
+            // url: 'http://localhost:3001/api/newsletter/register',
+            url: 'https://badtoadgames.com/api/newsletter/register',
             data: {
                 ["email"]: sessionStorage.email.toLowerCase(),
                 ["agreed"]: { box1: sessionStorage.box1, box2: sessionStorage.box2 },
