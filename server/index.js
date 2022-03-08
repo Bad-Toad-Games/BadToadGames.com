@@ -9,8 +9,8 @@ const uri = process.env.uri; // Grab URI from .env file
 const port = 3001;
 
 // Comment this when in production
-var cors = require('cors')
-app.use(cors())
+// var cors = require('cors')
+// app.use(cors())
 
 // Connect server to database
 
