@@ -35,6 +35,7 @@ ReactDOM.render(
       <Route path="/contact" element={<Contact />} />
       <Route path="/support" element={<Support />} />
       <Route path="/newsletter" element={<Newsletter />} />
+      <Route path="*" element={<Home />} />
     </Routes>
     <Footer imageurl="dasdasd" data="dasda" />
   </Router>,
