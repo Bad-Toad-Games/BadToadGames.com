@@ -5,3 +5,4 @@ export { default as Join } from "./Join";
 export { default as Contact } from "./Contact";
 export { default as Support } from "./Support";
 export { default as Newsletter } from "./Newsletter";
+export { default as Contributors } from "./Contributors";

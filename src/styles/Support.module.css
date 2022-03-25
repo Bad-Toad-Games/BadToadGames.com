@@ -7,7 +7,7 @@
 
 a {
   text-decoration: none;
-  color: #2beef2;
+  color: #9d8b34;
   text-decoration: underline;
 }
 
@@ -19,8 +19,8 @@ a {
 
 .Warning {
   padding: 10px;
-  background-color: #1c9597;
-  color: #d2e9e3;
+  background-color: #484e30;
+  color: #372607;
   border-radius: 20px;
   margin: 0 0 30px 0;
 }
@@ -36,8 +36,8 @@ a {
 }
 
 .Content_Paragraph_Parent {
-  background-color: #106466;
-  color: #d2e9e3;
+  background-color: #484e30;
+  color: #e9e4d6;
   border-radius: 20px;
   max-width: 25%;
   padding: 20px;

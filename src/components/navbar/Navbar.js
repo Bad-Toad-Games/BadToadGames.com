@@ -44,6 +44,12 @@ const Navbar = () => {
                     >
                         PROJECTS
                     </NavLink>
+                    <NavLink
+                        to="/contributors"
+                        activeStyle={{ color: 'black' }}
+                    >
+                        CONTRIBUTORS
+                    </NavLink>
                 </NavMenu>
             </Nav>
         </>

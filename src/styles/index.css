@@ -1,6 +1,6 @@
 html {
   background-color: #3c4340;
-  color: #d8a477;
+  color: #372607;
   font-family: "Source Code Pro", monospace;
 }
 
@@ -8,15 +8,15 @@ body {
   margin: 0;
   padding: 0;
   height: 100%;
-  /* background-image: url("");
+  background-image: url("../assets/background.jpg");
   background-repeat: no-repeat;
-  background-size: 100% 100%; */
+  background-size: 110% 100%;
 }
 
-/* @media (max-width: 960px) {
+@media (max-width: 960px) {
   body {
-    background-image: url("");
+    background-image: url("../assets/background.jpg");
     background-repeat: no-repeat;
     background-size: 500% 100%;
   }
-} */
+}

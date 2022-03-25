@@ -2,7 +2,7 @@ import React from "react"
 import Header_Style from "../styles/Header.module.css"
 
 // Import assets
-import Header_Image from "../assets/header/BadToadTransparent.png"
+import Header_Image from "../assets/header/Badtoadgameslogo.png"
 
 function Header() {
     return (
