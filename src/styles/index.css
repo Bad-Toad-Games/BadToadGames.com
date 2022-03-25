@@ -1,22 +1,25 @@
 html {
-  background-color: #3c4340;
-  color: #d8a477;
+  background-color: #3e2e14;
+  color: #372607;
   font-family: "Source Code Pro", monospace;
 }
 
 body {
   margin: 0;
   padding: 0;
-  height: 100%;
-  /* background-image: url("");
+  background-image: url("../assets/background.jpg");
   background-repeat: no-repeat;
-  background-size: 100% 100%; */
+  background-size: 3840px 2160px;
+  background-position: -400px 0;
 }
 
-/* @media (max-width: 960px) {
+@media (max-width: 960px) {
   body {
-    background-image: url("");
+    margin: 0;
+    padding: 0;
+    background-image: url("../assets/background.jpg");
     background-repeat: no-repeat;
-    background-size: 500% 100%;
+    background-size: 4224px 2376px;
+    background-position: center 0;
   }
-} */
+}

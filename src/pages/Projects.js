@@ -10,19 +10,19 @@ function Projects() {
             <div className={Projects_Style.Projects}>
                 <div className={Projects_Style.Projects_Details}>
                     <p>
-                        Mercs- Mages & Monsters
+                        Mercs, Mages and Monsters
                     </p>
                 </div>
                 <div className={Projects_Style.Projects_Details}>
                     <p>
-                        CATEGORY: Tabletop<br />
-                        RELEASE DATE: TBA
+                        Category: Tabletop RPG<br />
+                        Release date: TBA
                     </p>
                 </div>
             </div>
             <div className={Projects_Style.Projects_Description}>
                 <p>
-                    The core of the game is to acquire gold/ loot for completing Tasks from those  with the means to pay.  This could be a prince, local lord , shady merchant, the oddly well-to-do peasant farmer. No matter the source, yours is a question of do they have the means to pay and is the task worth risking your life. Doing so allows you to upgrade your Character and  increase the Prestige of your guild/group and so on. Which means you’ll be able to get better opportunities. Maybe even a map to raid a tomb or two… for the Museums obviously. <br />( subject to change)
+                    A Tabletop Role Playing Game (TTRPG) based in medieval fantasy. Your homeland is in shambles; the elite and their armies snarl over land and resources like dogs over scraps of meat. The influence of the Guilds grows ever stronger in a world where the only true king is coin. Not every threat is obvious, and what you don’t know could very well be what kills you. Join a guild, or create your own; help crown an Emperor, or remove them permanently. The choices, and consequences, are yours. <br /><br /> 3d8 system inspired by themes in Symbaroum/Dark Heresy and others
                 </p>
             </div>
             <div className={Projects_Style.Warning}>

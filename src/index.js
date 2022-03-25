@@ -18,6 +18,8 @@ import {
   Contact,
   Support,
   Newsletter,
+  Contributors,
+  Error,
 } from "./pages";
 
 ReactDOM.render(
@@ -35,9 +37,10 @@ ReactDOM.render(
       <Route path="/contact" element={<Contact />} />
       <Route path="/support" element={<Support />} />
       <Route path="/newsletter" element={<Newsletter />} />
-      <Route path="*" element={<Home />} />
+      <Route path="/contributors" element={<Contributors />} />
+      <Route path="*" element={<Error />} />
     </Routes>
-    <Footer imageurl="dasdasd" data="dasda" />
+    <Footer />
   </Router>,
   document.getElementById('root')
 );
