@@ -43,12 +43,10 @@
 .ExtraLink {
   color: #e9e4d6;
   text-decoration: none;
-  transition: 200ms ease-in-out;
   padding: 0 5px 0 5px;
 }
 
 .ExtraLink:hover {
   color: #adb893;
-  font-weight: bold;
   cursor: pointer;
 }

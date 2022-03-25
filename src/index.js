@@ -19,6 +19,7 @@ import {
   Support,
   Newsletter,
   Contributors,
+  Error,
 } from "./pages";
 
 ReactDOM.render(
@@ -37,7 +38,7 @@ ReactDOM.render(
       <Route path="/support" element={<Support />} />
       <Route path="/newsletter" element={<Newsletter />} />
       <Route path="/contributors" element={<Contributors />} />
-      <Route path="*" element={<Home />} />
+      <Route path="*" element={<Error />} />
     </Routes>
     <Footer />
   </Router>,

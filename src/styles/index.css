@@ -1,5 +1,5 @@
 html {
-  background-color: #3c4340;
+  background-color: #3e2e14;
   color: #372607;
   font-family: "Source Code Pro", monospace;
 }
@@ -7,16 +7,19 @@ html {
 body {
   margin: 0;
   padding: 0;
-  height: 100%;
   background-image: url("../assets/background.jpg");
   background-repeat: no-repeat;
-  background-size: 110% 100%;
+  background-size: 3840px 2160px;
+  background-position: -400px 0;
 }
 
 @media (max-width: 960px) {
   body {
+    margin: 0;
+    padding: 0;
     background-image: url("../assets/background.jpg");
     background-repeat: no-repeat;
-    background-size: 500% 100%;
+    background-size: 4224px 2376px;
+    background-position: center 0;
   }
 }
