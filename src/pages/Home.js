@@ -8,7 +8,7 @@ function Home() {
                 <h1 className={Home_Style.Content_Title}>WHO WE ARE</h1>
                 <div className={Home_Style.Content_Paragraph_Parent}>
                     <p className={Home_Style.Content_Paragraph}>
-                        We are the “The Brothers Toad”. Brothers, fathers, and gamers. After years of gaming in the tabletop and digital areas, we decided to throw our hat into the ring and bring our ideas to life.
+                        We are “The Brothers Toad”. Brothers, fathers, and gamers. After years of gaming in the tabletop and digital areas, we decided to throw our hat into the ring and bring our ideas to life.
                     </p>
                 </div>
                 <br />

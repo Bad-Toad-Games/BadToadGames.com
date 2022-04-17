@@ -10,7 +10,7 @@ function Support() {
                 </div>
                 <div className={Support_Style.Content_Paragraph_Parent}>
                     <p className={Support_Style.Content_Paragraph}>
-                        If you’ve been inspired by what you’ve seen so far, be it our dream of helping Gamers make memories, the products we’re working on, or just cause you want to feed the Toads so they don’t eat us, then this is for you. We accept donations through PayPal. Rest assured that any money you donate to us goes towards developing our products and improving our ability to work with you.
+                        If you’ve been inspired by what you’ve seen so far, be it our dream of helping Gamers make memories, the products we’re working on, or just cause you want to feed the Toads so they don’t eat us, then this is for you. We accept donations through PayPal. Rest assured that any money you donate to us goes towards developing our products and improving our ability to work with you. <br /><br /> <a href="https://paypal.me/BadToadGamesLLC">paypal.me/BadToadGamesLLC</a>
                     </p>
                 </div>
                 <br />
