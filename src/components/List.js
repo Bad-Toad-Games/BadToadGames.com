@@ -9,6 +9,7 @@ function List() {
             <NavLink to="/tabletop-games" className={List_Style.Button}>TABLETOP<br />GAMES</NavLink>
             <NavLink to="/games" className={List_Style.Button}>VIDEO GAMES</NavLink>
             <NavLink to="/projects" className={List_Style.Button}>PROJECTS</NavLink>
+            <NavLink to="/contributors" className={List_Style.Button}>CONTRIBUTORS</NavLink>
         </div >
     );
 }

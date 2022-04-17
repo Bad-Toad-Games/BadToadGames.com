@@ -31,19 +31,39 @@ function Projects() {
             <div className={Projects_Style.Projects}>
                 <div className={Projects_Style.Projects_Details}>
                     <p>
-                        WORKING TITLE
+                        Mercs, Mages, and Monsters – Guild Master
                     </p>
                 </div>
                 <div className={Projects_Style.Projects_Details}>
                     <p>
-                        CATEGORY: Tabletop<br />
+                        PLATFORM: Mobile
+                        <br />
                         RELEASE DATE: TBA
                     </p>
                 </div>
             </div>
             <div className={Projects_Style.Projects_Description}>
                 <p>
-                    PROJECT DESCRIPTION
+                    Set in the same homeland as Mercs, Mages, and Monsters – Tabletop, this game puts control of your own Guild in your hands. Complete the contracts you choose to gain wealth, reputation, and steer the course of events. Decide to work for or against the Consortium and other Guilds. Build your Guild by recruiting new members with skills you need. Customize your own Guild name, coin, and colors. The fate of the land is up to you.
+                </p>
+            </div>
+            <div className={Projects_Style.Projects}>
+                <div className={Projects_Style.Projects_Details}>
+                    <p>
+                        Crags and Crevices
+                    </p>
+                </div>
+                <div className={Projects_Style.Projects_Details}>
+                    <p>
+                        CATEGORY: Tabletop RPG
+                        <br />
+                        RELEASE DATE: TBD
+                    </p>
+                </div>
+            </div>
+            <div className={Projects_Style.Projects_Description}>
+                <p>
+                    Deep under the Mountains of Klaidheam, among the darkness lies the scattered husks of once great kingdoms, now long dead. Monsters, cultists and perhaps even the lingering spirits of those once noble places of old now dwell here, where relics of knowledge and power may also be found. The once grand city, the Upper Kingdom, home to the Church of The Last Ember and the Rekindler Order, still draws breath as the shadows close in around it. <br /><br /> Become a Reclaimer and delve for on behalf of your Kingdom, your Church, or your Order. Dawn the title of Diver and claim the lost relics for yourself. There remain many opportunities for those that wish to get their hands dirty… one way or another.
                 </p>
             </div>
             <div className={Projects_Style.Content_Paragraph_Parent}>

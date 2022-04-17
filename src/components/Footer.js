@@ -29,6 +29,7 @@ function Header() {
                 <br />
                 <NavLink onClick={() => { window.scrollTo({ top: 0, behavior: 'smooth' }) }} to="/newsletter" className={Footer_Style.ExtraLink} >Newsletter</NavLink>
             </div>
+            <p className={Footer_Style.Copyright}>© 2022 Bad Toad Games LLC, All Rights Reserved</p>
         </div >
     );
 }

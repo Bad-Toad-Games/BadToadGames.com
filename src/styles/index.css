@@ -9,8 +9,8 @@ body {
   padding: 0;
   background-image: url("../assets/background.jpg");
   background-repeat: no-repeat;
-  background-size: 3840px 2160px;
-  background-position: -400px 0;
+  background-size: 4140px 2460px;
+  background-position: -500px 0;
 }
 
 @media (max-width: 960px) {
