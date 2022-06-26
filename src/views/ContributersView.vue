@@ -1,17 +1,23 @@
 <template>
   <div class="page">
-    <h2>WHO WE ARE</h2>
+    <h2>ARTISTS</h2>
     <p>
-      We are “The Brothers Toad”. Brothers, fathers, and gamers. After years of
-      gaming in the tabletop and digital areas, we decided to throw our hat into
-      the ring and bring our ideas to life.
+      Logo made by
+      <a
+        style="color: #ac63ff"
+        href="https://ntinaart8.wixsite.com/ntinaartportfolio"
+        >Ntina_art</a
+      >
+      <br />
+      Background made by
+      <a style="color: #13aff0" href="https://leszekwo.artstation.com/"
+        >Leszek Woźniak</a
+      >
     </p>
-    <h2>OUR MISSION</h2>
+    <h2>PROGRAMMERS</h2>
     <p>
-      We want to create both tabletop and digital games that bring a spark of
-      something special to the lives of everyone that plays them, whether that’s
-      a Game Master breaking down due to a Rogue’s actions, or simply escaping
-      into a digital world of adventure. We want to help make memories.
+      Website designed and coded by
+      <a style="color: #ac63ff" href="https://stianwiu.me">Stian Wiu</a>
     </p>
     <p>
       Please follow us on the sites below for updates. Thank you for the
@@ -37,6 +43,8 @@ export default {
   display: flex;
   align-items: center;
   flex-direction: column;
+
+  margin-bottom: 15%;
 }
 
 h2 {
@@ -57,7 +65,7 @@ p {
   background-color: #484e30;
   color: #e9e4d6;
 
-  max-width: 300px;
+  max-width: 400px;
   padding: 25px;
 }
 

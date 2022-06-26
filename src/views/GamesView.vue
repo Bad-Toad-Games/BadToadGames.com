@@ -1,21 +1,15 @@
 <template>
   <div class="page">
-    <h2>WHO WE ARE</h2>
+    <h2>PAGE STILL UNDER CONSTRUCTION</h2>
     <p>
-      We are “The Brothers Toad”. Brothers, fathers, and gamers. After years of
-      gaming in the tabletop and digital areas, we decided to throw our hat into
-      the ring and bring our ideas to life.
-    </p>
-    <h2>OUR MISSION</h2>
-    <p>
-      We want to create both tabletop and digital games that bring a spark of
-      something special to the lives of everyone that plays them, whether that’s
-      a Game Master breaking down due to a Rogue’s actions, or simply escaping
-      into a digital world of adventure. We want to help make memories.
+      While we here at Bad Toad Games, all two of us, appreciate your
+      enthusiasm, this page isn’t quite up yet. Rest assured we are working on
+      it just as fast as the Toads let us. To stay up to date with our progress
+      and products please follow us at the links below.
     </p>
     <p>
-      Please follow us on the sites below for updates. Thank you for the
-      interest and support. The Brothers of Bad Toad
+      Thank you for the interest and support, you curious camper you. The
+      Brothers of Bad Toad
       <br />
       <span class="signature">J & C</span>
     </p>
@@ -37,6 +31,8 @@ export default {
   display: flex;
   align-items: center;
   flex-direction: column;
+
+  margin-bottom: 15%;
 }
 
 h2 {

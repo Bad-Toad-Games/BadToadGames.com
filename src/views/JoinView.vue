@@ -1,17 +1,24 @@
 <template>
   <div class="page">
-    <h2>WHO WE ARE</h2>
+    <h2>CURRENT OPENINGS</h2>
     <p>
-      We are “The Brothers Toad”. Brothers, fathers, and gamers. After years of
-      gaming in the tabletop and digital areas, we decided to throw our hat into
-      the ring and bring our ideas to life.
+      While your enthusiasm to join our small team is greatly appreciated, we
+      are not currently hiring. If you’d like to be considered for a position
+      later, please email
+      <a style="color: #9d8b34" href="mailto:Employment@BadToadGames.com"
+        >Employment@BadToadGames.com</a
+      >
+      and if the Toads pick you, we’ll contact you. Please include your resume
+      and example work (if applicable)
     </p>
-    <h2>OUR MISSION</h2>
+    <h2>COMMISSIONED WORK</h2>
     <p>
-      We want to create both tabletop and digital games that bring a spark of
-      something special to the lives of everyone that plays them, whether that’s
-      a Game Master breaking down due to a Rogue’s actions, or simply escaping
-      into a digital world of adventure. We want to help make memories.
+      If you’re an artist, model designer, or just looking for commissioned
+      based work and think we’d be a good fit please email
+      <a style="color: #9d8b34" href="mailto:Commissions@BadToadGames.com"
+        >Commissions@BadToadGames.com</a
+      >, include a sample of your work and if the Toads like what they see,
+      we’ll contact you.
     </p>
     <p>
       Please follow us on the sites below for updates. Thank you for the

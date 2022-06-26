@@ -1,17 +1,22 @@
 <template>
   <div class="page">
-    <h2>WHO WE ARE</h2>
+    <h2>QUESTIONS?</h2>
     <p>
-      We are “The Brothers Toad”. Brothers, fathers, and gamers. After years of
-      gaming in the tabletop and digital areas, we decided to throw our hat into
-      the ring and bring our ideas to life.
+      For general questions please email us at
+      <a style="color: #9d8b34" href="mailto:General@BadToadGames.com"
+        >General@BadToadGames.com</a
+      >
+      and we will get back to you as soon as we get away from the Toads.
     </p>
-    <h2>OUR MISSION</h2>
+    <h2>PRODUCT ISSUES?</h2>
     <p>
-      We want to create both tabletop and digital games that bring a spark of
-      something special to the lives of everyone that plays them, whether that’s
-      a Game Master breaking down due to a Rogue’s actions, or simply escaping
-      into a digital world of adventure. We want to help make memories.
+      If you have issues with the quality of any of our products that you’ve
+      purchased from us, please contact us at
+      <a style="color: #9d8b34" href="mailto:Products@BadToadGames.com"
+        >Products@BadToadGames.com</a
+      >
+      and we will get the Toads back in line and work to correct the issue.
+      Please provide proof of purchase and pictures of the issue if possible.
     </p>
     <p>
       Please follow us on the sites below for updates. Thank you for the
